@@ -1,7 +1,7 @@
 # HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation
 
 The code is designed for the paper [HoPE](https://arxiv.org/abs/2410.21216) and is built upon the modeling_llama.py in [transformers](https://github.com/huggingface/transformers).
-The core implementation can be located through '## hope'
+The core implementation can be located through '## hope' and '## hope-end'
 
 
 ## Citation
